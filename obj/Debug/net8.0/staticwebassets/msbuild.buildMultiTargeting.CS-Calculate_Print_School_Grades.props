@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS-Calculate_Print_School_Grades.props" />
+</Project>
